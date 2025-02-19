@@ -3,5 +3,6 @@ Developed a fully responsive e-commerce website for browsing, searching, and pur
 
 To run:
 unzip code.zip
+then 
 run npm run dev
 
