@@ -1,0 +1,19 @@
+[
+    {
+      "id": "1",
+      "name": "Men Navy Blue Solid Sweatshirt",
+      "preview": "ANVIT_img/D.JPG",
+      "photos": [
+        "ANVIT_img/D.JPG",
+        "ANVIT_img/D.JPG",
+        "ANVIT_img/D.JPG",
+        "ANVIT_img/D.JPG",
+        ""
+      ],
+      "description": "Navy solid sweatshirt with patchwork, has a round neck, long sleeves, straight hem",
+      "size": [1, 1, 0, 1, 0],
+      "isAccessory": false,
+      "brand": "United Colors of Benetton",
+      "price": 2599
+    }
+  ]
